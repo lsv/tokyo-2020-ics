@@ -1,0 +1,14 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Tokyo2020Ics\\": "src"
+        }
+    },
+    "require": {
+        "php": "^7.4",
+        "eluceo/ical": "^0.16.0",
+        "symfony/http-client": "^5.0",
+        "symfony/dom-crawler": "^5.0",
+        "symfony/css-selector": "^5.0"
+    }
+}
